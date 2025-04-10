@@ -1,4 +1,4 @@
- # 🐻 Bear Attack Visualization Project  
+ # 🐻 Bear Attack Analysis and Visualization 
 
 ## Interactive Visualization
 
