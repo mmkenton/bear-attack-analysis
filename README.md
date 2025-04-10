@@ -48,8 +48,6 @@ As someone who frequently hikes and camps in backcountry areas, I’ve often bee
 - R
 - Shiny
 - tidyverse (dplyr, ggplot2, tidyr)
-- leaflet (for interactive maps)
-- DT (for interactive data tables)
 
 ## Dataset
 
